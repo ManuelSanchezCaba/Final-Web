@@ -1,0 +1,12 @@
+.root {
+	background-color: dodgerblue;
+	height: 100vh;
+}
+
+h1 {
+	text-align: center;
+}
+
+.caja-h {
+	height: 100vh;
+}
